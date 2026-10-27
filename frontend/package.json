@@ -2,7 +2,7 @@
   "name": "iot-anomaly-dashboard",
   "version": "1.0.0",
   "private": true,
-  "author": "Pravin <kumar02pravin@gmail.com>",
+  "author": "Samyak Jain <samyakjain2003last@gmail.com>",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",

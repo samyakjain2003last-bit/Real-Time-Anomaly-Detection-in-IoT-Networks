@@ -56,7 +56,7 @@ An AI-powered real-time security monitoring system that detects anomalies in IoT
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/piku020505/Real-Time-Anomaly-Detection-in-IoT-Networks.git
+git clone https://github.com/samyakjain2003last-bit/Real-Time-Anomaly-Detection-in-IoT-Networks.git
 cd Real-Time-Anomaly-Detection-in-IoT-Networks
 ```
 
@@ -116,9 +116,12 @@ npm install && npm start
 
 ## 👤 Author
 
-**Pravin**
-- Email: [kumar02pravin@gmail.com](mailto:kumar02pravin@gmail.com)
-- GitHub: [@piku020505](https://github.com/piku020505)
+**Samyak Jain**
+- Phone: [+91 6266992504](tel:+916266992504)
+- Email: [samyakjain2003last@gmail.com](mailto:samyakjain2003last@gmail.com)
+- GitHub: [@samyakjain2003last-bit](https://github.com/samyakjain2003last-bit)
+- LinkedIn: [samyak-jain-6266992504-](https://www.linkedin.com/in/samyak-jain-6266992504-/)
+- Behance: [samyakjain141](https://www.behance.net/samyakjain141)
 
 ## 📄 License
 
